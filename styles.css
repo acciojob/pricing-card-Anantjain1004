@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+ button {
+        padding: 10px;
+        background-color: #fe615a;
+        color: white;
+        border-radius: 10px;
+        border: none;
+      }
